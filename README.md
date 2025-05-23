@@ -15,7 +15,3 @@ Actualmente, el proyecto está en una fase inicial con funciones básicas de aut
 ## 📚 Propósito
 
 Este bot busca ser una herramienta accesible para los miembros de la rama IEEE, ayudando en la gestión y comunicación dentro del servidor de Discord.
-
----
-
-Este README proporciona una visión general del bot sin incluir instrucciones de instalación. Si en el futuro deseas agregar más funcionalidades, puedes estructurar el contenido en nuevas versiones. 🚀
